@@ -110,6 +110,6 @@ app.delete('/api/pair',function(req,res){
 })
 
 
-app.listen(3000,function(){
+app.listen(12306,function(){
     console.log('The server ins running now');
 });
